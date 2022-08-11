@@ -1,0 +1,30 @@
+# stderr = strandard error
+# 2>output.txt : at the end of a command line to redirect errors to another file
+
+## check the exit status code
+# echo $?
+
+
+## Check if String is empty or not
+# VAR=''
+# if [[ -z $VAR ]]; then
+#   echo "String is empty."
+# fi
+
+# VAR='Linuxize'
+# if [[ -n $VAR ]]; then
+#   echo "String is not empty."
+# fi
+
+
+## Check if variable is integer
+# if ! [[ $var =~ ^[0-9]+$ ]]
+# then
+#   echo "usage"
+#   exit 5 #input/output error
+# fi
+
+
+
+# echo "How many number of terms to be generated ?"
+#   read number_input
