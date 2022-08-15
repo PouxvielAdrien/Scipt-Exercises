@@ -17,6 +17,5 @@ usage : cat myfile | exercise3.sh => result; Or exercise3.sh myfile => same resu
 Script that asks for your favorite color and animal. If the user say elephant or pink, the software should say “You win with pink and elephant”, if not, the output should be <color> and <animal> are great but don’t win this time
 
 ## Comments
-
-I tried to check all the error inputs 
-I need to add one to the exercise 4
+You need to clone the repository and go to the directory 'Shell-Scripting'
+I tried to check all the error inputs but I need to add one to the exercise 3 to check if a file exists when it us a standard input
