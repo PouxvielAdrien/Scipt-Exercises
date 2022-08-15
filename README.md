@@ -18,4 +18,4 @@ Script that asks for your favorite color and animal. If the user say elephant or
 
 ## Comments
 You need to clone the repository and go to the directory 'Shell-Scripting'.
-I tried to check all the error inputs but I need to add one to the exercise 3 to check if a file exists when it us a standard input
+I tried to check all the error inputs but I need to add one to the exercise 3 to check if a file exists when it is a standard input
